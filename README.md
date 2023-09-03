@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suriya
-- 👀 I’m interested in Python codind
+- 👀 I’m interested in Python coding
 - 🌱 I’m currently learning python modules
 - 💞️ I’m looking to collaborate on Any python related programs
 - 📫 How to reach me through my email
